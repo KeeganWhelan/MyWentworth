@@ -65,5 +65,14 @@
         "password": "12345678",
         "passwordConfirm":"12345678",
         "role": "admin"
+    },
+    {
+
+        "wit_id": "W00375367",
+        "username": "whelank",
+        "email": "whelank@wit.edu",
+        "password": "12345678",
+        "passwordConfirm":"12345678",
+        "role": "admin"
     }
 ]
