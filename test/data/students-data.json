@@ -1,76 +1,729 @@
 [
-    {
-        "wit_id": "W00374917",
-        "name": "Zhiheng Chang",
-        "type": "Continuing Student",
-        "ssn": "491710618",
-        "date_of_birth": 928296000000,
-        "citizenship": "Permanent Resident",
-        "residence": "In State Resident",
-        "address": [
-            {
-                "street": "50 Gardner St",
-                "city": "Newton",
-                "state": "MA",
-                "country": "US"
-            }
-        ],
-        "contact": {
-            "wit_username": "changz",
-            "wit_password": "",
-            "wit_email": "changz@wit.edu",
-            "personal_email": "Zhihengchang602@gmail.com",
-            "phone_number": "6173312352"
+  {
+    "wit_id": "W00374917",
+    "name": "Zhiheng Chang",
+    "type": "Continuing Student",
+    "ssn": "491710618",
+    "date_of_birth": 928296000000,
+    "citizenship": "Permanent Resident",
+    "residence": "In State Resident",
+    "address": [
+      {
+        "street": "50 Gardner St",
+        "city": "Newton",
+        "state": "MA",
+        "country": "US"
+      }
+    ],
+    "contact": {
+      "wit_username": "changz",
+      "wit_password": "",
+      "wit_email": "changz@wit.edu",
+      "personal_email": "Zhihengchang602@gmail.com",
+      "phone_number": "6173312352"
+    },
+    "curriculum_info": [
+      {
+        "academic_year": "2020-2021",
+        "term": "2021 Spring",
+        "status": "Active",
+        "class": "Senior",
+        "level": "Undergraduate",
+        "advisor": {
+          "name": "Mehmet Ergezer",
+          "type": "Major Advisor"
         },
-        "curriculum_info": [
+        "program": "Computer Science",
+        "program_abbreviation": "BCOS",
+        "admit_term": "Fall 2017",
+        "college": "The School of Comp & Data Sci",
+        "Campus": "Wentworth Institute of Technology",
+        "Major": "Computer Science",
+        "Department": "Computer Science & Networking",
+        "registration": {
+          "status": "Closed",
+          "begin_time": 1605616200000,
+          "end_time": 1611723540000,
+          "earned_credit": 96,
+          "courses": [
             {
-                "academic_year": "2020-2021",
-                "term": "2021 Spring",
-                "status": "Active",
-                "class": "Senior",
-                "level": "Undergraduate",
-                "advisor": {
-                    "name": "Mehmet Ergezer",
-                    "type": "Major Advisor"
-                },
-                "program": "Computer Science",
-                "program_abbreviation": "BCOS",
-                "admit_term": "Fall 2017",
-                "college": "The School of Comp & Data Sci",
-                "Campus": "Wentworth Institute of Technology",
-                "Major": "Computer Science",
-                "Department": "Computer Science & Networking",
-                "registration": {
-                    "status": "Closed",
-                    "begin_time": 1605616200000,
-                    "end_time": 1611723540000,
-                    "earned_credit": 96,
-                    "courses": [
-                        {
-                            "subj": "COMP",
-                            "crse": 4650,
-                            "grade": { "midterm": "A", "final": null}
-                        }, {
-                            "subj": "COMP",
-                            "crse": 4960,
-                            "grade": {"midterm": "A", "final": null}
-                        },{ 
-                            "subj": "COMP",
-                            "crse": 2200,
-                            "grade": {"midterm": "A", "final": null}
-                        }, {
-                            "subj": "PHIL",
-                            "crse": 4401,
-                            "grade": {"midterm": "B+", "final": null}
-                        }
-                    ]
-                }
+              "subj": "COMP",
+              "crse": 4650,
+              "grade": {
+                "midterm": "A",
+                "final": null
+              }
+            },
+            {
+              "subj": "COMP",
+              "crse": 4960,
+              "grade": {
+                "midterm": "A",
+                "final": null
+              }
+            },
+            {
+              "subj": "COMP",
+              "crse": 2200,
+              "grade": {
+                "midterm": "A",
+                "final": null
+              }
+            },
+            {
+              "subj": "PHIL",
+              "crse": 4401,
+              "grade": {
+                "midterm": "B+",
+                "final": null
+              }
             }
-        ],
-        "graduation": {
-            "exp_date": 1639112400000,
-            "exp_term": "Fall 2021",
-            "exp_year": "2021-2022"
+          ]
         }
+      }
+    ],
+    "graduation": {
+      "exp_date": 1639112400000,
+      "exp_term": "Fall 2021",
+      "exp_year": "2021-2022"
     }
+  },
+
+  {
+    "_id": { "$oid": "605b38657509282430effe59" },
+    "wit_id": "W00375367",
+    "name": "Keegan Whelan",
+    "type": "Continuing Student",
+    "ssn": "111111111",
+    "date_of_birth": 11161998,
+    "citizenship": "Permanent Resident",
+    "residence": "In State Resident",
+    "address": [
+      {
+        "street": "72 Hillside st",
+        "city": "Boston",
+        "state": "MA",
+        "country": "US"
+      }
+    ],
+    "contact": {
+      "wit_username": "whelank",
+      "wit_password": "Password0",
+      "wit_email": "whelank@wit.edu",
+      "personal_email": "keegan.j.whelan@gmail.com",
+      "phone_number": "6035542041"
+    },
+    "curriculum_info": [
+      {
+        "academic_year": "2020-2021",
+        "term": "2021 Spring",
+        "status": "Active",
+        "class": "Senior",
+        "level": "Undergraduate",
+        "advisor": {
+          "name": "Mira Yun",
+          "type": "Major Advisor"
+        },
+        "program": "Computer Science",
+        "program_abbreviation": "BCOS",
+        "admit_term": "Fall 2017",
+        "college": "The School of Comp & Data Sci",
+        "Campus": "Wentworth Institute of Technology",
+        "Major": "Computer Science",
+        "Department": "Computer Science & Networking",
+        "registration": {
+          "status": "Closed",
+          "begin_time": 1605616200000,
+          "end_time": 1611723540000,
+          "earned_credit": 96,
+          "courses": [
+            {
+              "subj": "COMP",
+              "crse": 4950,
+              "grade": {
+                "midterm": "A",
+                "final": null
+              }
+            },
+            {
+              "subj": "COMP",
+              "crse": 4650,
+              "grade": {
+                "midterm": "B+",
+                "final": null
+              }
+            },
+            {
+              "subj": "COMP",
+              "crse": 4960,
+              "grade": {
+                "midterm": "A",
+                "final": null
+              }
+            },
+            {
+              "subj": "HIST",
+              "crse": 4175,
+              "grade": {
+                "midterm": "B",
+                "final": null
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "graduation": {
+      "exp_date": 1639112400000,
+      "exp_term": "Fall 2021",
+      "exp_year": "2021-2022"
+    }
+  }
+
+  {
+    "_id": { "$oid": "605b56477509282430effe5a" },
+    "wit_id": "W00345211",
+    "name": "Henry Mills",
+    "type": "Continuing Student",
+    "ssn": "002222222",
+    "date_of_birth": 8161999,
+    "citizenship": "Permanent Resident",
+    "residence": "Out of State Resident",
+    "address": [
+      {
+        "street": "56 Piper St",
+        "city": "San Jose",
+        "state": "CA",
+        "country": "US"
+      }
+    ],
+    "contact": {
+      "wit_username": "millsh",
+      "wit_password": "",
+      "wit_email": "millsh@wit.edu",
+      "personal_email": "henry.mills@gmail.com",
+      "phone_number": "6175550000"
+    },
+    "curriculum_info": [
+      {
+        "academic_year": "2020-2021",
+        "term": "2021 Spring",
+        "status": "Active",
+        "class": "Senior",
+        "level": "Undergraduate",
+        "advisor": {
+          "name": "Mehmet Ergezer",
+          "type": "Major Advisor"
+        },
+        "program": "Computer Science",
+        "program_abbreviation": "BCOS",
+        "admit_term": "Fall 2017",
+        "college": "The School of Comp & Data Sci",
+        "Campus": "Wentworth Institute of Technology",
+        "Major": "Computer Science",
+        "Department": "Computer Science & Networking",
+        "registration": {
+          "status": "Closed",
+          "begin_time": 1605616200000,
+          "end_time": 1611723540000,
+          "earned_credit": 96,
+          "courses": [
+            {
+              "subj": "COMP",
+              "crse": 4650,
+              "grade": {
+                "midterm": "A",
+                "final": null
+              }
+            },
+            {
+              "subj": "COMP",
+              "crse": 4960,
+              "grade": {
+                "midterm": "A",
+                "final": null
+              }
+            },
+            {
+              "subj": "COMP",
+              "crse": 4600,
+              "grade": {
+                "midterm": "A",
+                "final": null
+              }
+            },
+            {
+              "subj": "HIST",
+              "crse": 4300,
+              "grade": {
+                "midterm": "C",
+                "final": null
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "graduation": {
+      "exp_date": 1639112400000,
+      "exp_term": "Fall 2021",
+      "exp_year": "2021-2022"
+    }
+  },
+
+  {
+    "_id": { "$oid": "605b64337509282430effe5b" },
+    "wit_id": "W00568334",
+    "name": "Anna Bell",
+    "type": "Continuing Student",
+    "ssn": "003333333",
+    "date_of_birth": 12152000,
+    "citizenship": "Permanent Resident",
+    "residence": "In State Resident",
+    "address": [
+      {
+        "street": "50 Spider St",
+        "city": "Cambridge",
+        "state": "MA",
+        "country": "US"
+      }
+    ],
+    "contact": {
+      "wit_username": "bella",
+      "wit_password": "",
+      "wit_email": "bella@wit.edu",
+      "personal_email": "anna.bell@gmail.com",
+      "phone_number": "6175551111"
+    },
+    "curriculum_info": [
+      {
+        "academic_year": "2020-2021",
+        "term": "2021 Spring",
+        "status": "Active",
+        "class": "Junior",
+        "level": "Undergraduate",
+        "advisor": {
+          "name": "Ronald Krawitz",
+          "type": "Major Advisor"
+        },
+        "program": "Computer Science",
+        "program_abbreviation": "BCOS",
+        "admit_term": "Fall 2018",
+        "college": "The School of Comp & Data Sci",
+        "Campus": "Wentworth Institute of Technology",
+        "Major": "Computer Science",
+        "Department": "Computer Science & Networking",
+        "registration": {
+          "status": "Closed",
+          "begin_time": 1605616200000,
+          "end_time": 1611723540000,
+          "earned_credit": 80,
+          "courses": [
+            {
+              "subj": "COMP",
+              "crse": 3100,
+              "grade": {
+                "midterm": "A",
+                "final": null
+              }
+            },
+            {
+              "subj": "COMP",
+              "crse": 2650,
+              "grade": {
+                "midterm": "B",
+                "final": null
+              }
+            },
+            {
+              "subj": "COMP",
+              "crse": 3499,
+              "grade": {
+                "midterm": "A",
+                "final": null
+              }
+            },
+            {
+              "subj": "PHIL",
+              "crse": 4401,
+              "grade": {
+                "midterm": "A",
+                "final": null
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "graduation": {
+      "exp_date": 1639112400000,
+      "exp_term": "Fall 2022",
+      "exp_year": "2022-2023"
+    }
+  },
+
+  {
+    "_id": { "$oid": "606316b9dfe8a13d94cdf206" },
+    "wit_id": "W00875145",
+    "name": "Steve Tom",
+    "type": "Continuing Student",
+    "ssn": "002121212",
+    "date_of_birth": { "$numberLong": "1212000" },
+    "citizenship": "Permanent Resident",
+    "residence": "In State Resident",
+    "address": [
+      {
+        "street": "32 Lawn St",
+        "city": "Roxbury Crossing",
+        "state": "MA",
+        "country": "US"
+      }
+    ],
+    "contact": {
+      "wit_username": "toms",
+      "wit_password": "",
+      "wit_email": "toms@wit.edu",
+      "personal_email": "steve.tom@gmail.com",
+      "phone_number": "6175552222"
+    },
+    "curriculum_info": [
+      {
+        "academic_year": "2020-2021",
+        "term": "2021 Spring",
+        "status": "Active",
+        "class": "Senior",
+        "level": "Undergraduate",
+        "advisor": {
+          "name": "Mira Yun",
+          "type": "Major Advisor"
+        },
+        "program": "Computer Science",
+        "program_abbreviation": "BCOS",
+        "admit_term": "Fall 2017",
+        "college": "The School of Comp & Data Sci",
+        "Campus": "Wentworth Institute of Technology",
+        "Major": "Computer Science",
+        "Department": "Computer Science & Networking",
+        "registration": {
+          "status": "Closed",
+          "begin_time": 1605616200000,
+          "end_time": 1611723540000,
+          "earned_credit": 96,
+          "courses": [
+            {
+              "subj": "COMP",
+              "crse": 4650,
+              "grade": {
+                "midterm": "A",
+                "final": null
+              }
+            },
+            {
+              "subj": "COMP",
+              "crse": 4960,
+              "grade": {
+                "midterm": "B",
+                "final": null
+              }
+            },
+            {
+              "subj": "COMP",
+              "crse": 2200,
+              "grade": {
+                "midterm": "A-",
+                "final": null
+              }
+            },
+            {
+              "subj": "PHIL",
+              "crse": 4401,
+              "grade": {
+                "midterm": "B",
+                "final": null
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "graduation": {
+      "exp_date": 1639112400000,
+      "exp_term": "Fall 2021",
+      "exp_year": "2021-2022"
+    }
+  },
+
+  {
+    "_id": { "$oid": "606318e7dfe8a13d94cdf208" },
+    "wit_id": "W00469983",
+    "name": "Fai Yushu",
+    "type": "Continuing Student",
+    "ssn": "491756821",
+    "date_of_birth": { "$numberLong": "5171999" },
+    "citizenship": "Permanent Resident",
+    "residence": "In State Resident",
+    "address": [
+      {
+        "street": "555 Huntington St",
+        "city": "Boston",
+        "state": "MA",
+        "country": "US"
+      }
+    ],
+    "contact": {
+      "wit_username": "yushuf",
+      "wit_password": "",
+      "wit_email": "yushuf@wit.edu",
+      "personal_email": "faiyusu101@gmail.com",
+      "phone_number": "6175553333"
+    },
+    "curriculum_info": [
+      {
+        "academic_year": "2020-2021",
+        "term": "2021 Spring",
+        "status": "Active",
+        "class": "Senior",
+        "level": "Undergraduate",
+        "advisor": {
+          "name": "Chen-Hsiang Yu",
+          "type": "Major Advisor"
+        },
+        "program": "Computer Science",
+        "program_abbreviation": "BCOS",
+        "admit_term": "Fall 2017",
+        "college": "The School of Comp & Data Sci",
+        "Campus": "Wentworth Institute of Technology",
+        "Major": "Computer Science",
+        "Department": "Computer Science & Networking",
+        "registration": {
+          "status": "Closed",
+          "begin_time": 1605616200000,
+          "end_time": 1611723540000,
+          "earned_credit": 96,
+          "courses": [
+            {
+              "subj": "COMP",
+              "crse": 4650,
+              "grade": {
+                "midterm": "B+",
+                "final": null
+              }
+            },
+            {
+              "subj": "COMP",
+              "crse": 4950,
+              "grade": {
+                "midterm": "A",
+                "final": null
+              }
+            },
+            {
+              "subj": "COMP",
+              "crse": 4960,
+              "grade": {
+                "midterm": "A",
+                "final": null
+              }
+            },
+            {
+              "subj": "HUMN",
+              "crse": 4225,
+              "grade": {
+                "midterm": "B",
+                "final": null
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "graduation": {
+      "exp_date": 1639112400000,
+      "exp_term": "Fall 2021",
+      "exp_year": "2021-2022"
+    }
+  },
+
+  {
+    "_id": { "$oid": "60632031dfe8a13d94cdf209" },
+    "wit_id": "W00497623",
+    "name": "Stan John",
+    "type": "Continuing Student",
+    "ssn": "002999999",
+    "date_of_birth": 3162000,
+    "citizenship": "Permanent Resident",
+    "residence": "In State Resident",
+    "address": [
+      {
+        "street": "525 Huntington Ave",
+        "city": "Boston",
+        "state": "MA",
+        "country": "US"
+      }
+    ],
+    "contact": {
+      "wit_username": "johns",
+      "wit_password": "",
+      "wit_email": "johns@wit.edu",
+      "personal_email": "stanj@gmail.com",
+      "phone_number": "6175554444"
+    },
+    "curriculum_info": [
+      {
+        "academic_year": "2020-2021",
+        "term": "2021 Spring",
+        "status": "Active",
+        "class": "Junior",
+        "level": "Undergraduate",
+        "advisor": {
+          "name": "Mehmet Ergezer",
+          "type": "Major Advisor"
+        },
+        "program": "Computer Science",
+        "program_abbreviation": "BCOS",
+        "admit_term": "Fall 2018",
+        "college": "The School of Comp & Data Sci",
+        "Campus": "Wentworth Institute of Technology",
+        "Major": "Computer Science",
+        "Department": "Computer Science & Networking",
+        "registration": {
+          "status": "Closed",
+          "begin_time": 1605616200000,
+          "end_time": 1611723540000,
+          "earned_credit": 80,
+          "courses": [
+            {
+              "subj": "COMP",
+              "crse": 2650,
+              "grade": {
+                "midterm": "A",
+                "final": null
+              }
+            },
+            {
+              "subj": "COMP",
+              "crse": 3499,
+              "grade": {
+                "midterm": "B-",
+                "final": null
+              }
+            },
+            {
+              "subj": "COMP",
+              "crse": 2150,
+              "grade": {
+                "midterm": "B+",
+                "final": null
+              }
+            },
+            {
+              "subj": "Hist",
+              "crse": 4175,
+              "grade": {
+                "midterm": "A",
+                "final": null
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "graduation": {
+      "exp_date": 1639112400000,
+      "exp_term": "Fall 2022",
+      "exp_year": "2022-2023"
+    }
+  },
+
+  {
+    "_id": { "$oid": "606324ffdfe8a13d94cdf20a" },
+    "wit_id": "W00734910",
+    "name": "Max Max",
+    "type": "Continuing Student",
+    "ssn": "003555555",
+    "date_of_birth": 10061998,
+    "citizenship": "Permanent Resident",
+    "residence": "Out of State Resident",
+    "address": [
+      {
+        "street": "72 Naticook Rd",
+        "city": "Merrimack",
+        "state": "NH",
+        "country": "US"
+      }
+    ],
+    "contact": {
+      "wit_username": "maxm",
+      "wit_password": "",
+      "wit_email": "maxm@wit.edu",
+      "personal_email": "maximummax@gmail.com",
+      "phone_number": "6035559999"
+    },
+    "curriculum_info": [
+      {
+        "academic_year": "2020-2021",
+        "term": "2021 Spring",
+        "status": "Active",
+        "class": "Senior",
+        "level": "Undergraduate",
+        "advisor": {
+          "name": "Frank Kreimendahl",
+          "type": "Major Advisor"
+        },
+        "program": "Computer Science",
+        "program_abbreviation": "BCOS",
+        "admit_term": "Fall 2017",
+        "college": "The School of Comp & Data Sci",
+        "Campus": "Wentworth Institute of Technology",
+        "Major": "Computer Science",
+        "Department": "Computer Science & Networking",
+        "registration": {
+          "status": "Closed",
+          "begin_time": 1605616200000,
+          "end_time": 1611723540000,
+          "earned_credit": 96,
+          "courses": [
+            {
+              "subj": "COMP",
+              "crse": 3660,
+              "grade": {
+                "midterm": "B",
+                "final": null
+              }
+            },
+            {
+              "subj": "COMP",
+              "crse": 4960,
+              "grade": {
+                "midterm": "A",
+                "final": null
+              }
+            },
+            {
+              "subj": "COMP",
+              "crse": 2200,
+              "grade": {
+                "midterm": "A",
+                "final": null
+              }
+            },
+            {
+              "subj": "PSYC",
+              "crse": 4160,
+              "grade": {
+                "midterm": "B+",
+                "final": null
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "graduation": {
+      "exp_date": 1639112400000,
+      "exp_term": "Fall 2021",
+      "exp_year": "2021-2022"
+    }
+  }
+
 ]
