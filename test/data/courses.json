@@ -1,0 +1,316 @@
+[
+  {
+    "CRN": "20915",
+    "Subj": "COMP",
+    "crse": "4960",
+    "sec": "01",
+    "cmp": "ONLINE",
+    "cred": 4.000,
+    "title": "Software Engineering",
+    "days": "TR",
+    "time": "3:30-4:50",
+    "instructor": [
+      {
+        "name": "Ronald Krawvitz",
+        "id": "001"
+      }
+    ],
+    "date": "01/19-04/27",
+    "location": "Online",
+    "attribute": "OLC - All Online Learning"
+  },
+
+  {
+    "CRN": "20912",
+    "Subj": "COMP",
+    "crse": "4690",
+    "sec": "04",
+    "cmp": "ONLINE",
+    "cred": 4.000,
+    "title": "Software Engineering",
+    "days": "MW",
+    "time": "3:30-4:50",
+    "instructor": [
+      {
+        "name": "Coung Pham",
+        "id": "002"
+      }
+    ],
+    "date": "01/19-04/27",
+    "location": "Online",
+    "attribute": "OLC - All Online Learning"
+  },
+
+  {
+    "CRN": "20804",
+    "Subj": "COMP",
+    "crse": "4650",
+    "sec": "01",
+    "cmp": "ONLINE",
+    "cred": 4.000,
+    "title": "Web Development",
+    "days": "TR",
+    "time": "9:30-10:50",
+    "instructor": [
+      {
+        "name": "Chen-Hsiang Yu",
+        "id": "003"
+      }
+    ],
+    "date": "01/19-04/27",
+    "location": "Online",
+    "attribute": "OLC - All Online Learning"
+  },
+
+  {
+    "CRN": "20807",
+    "Subj": "COMP",
+    "crse": "4950",
+    "sec": "02",
+    "cmp": "ONLINE",
+    "cred": 4.000,
+    "title": "Project Management",
+    "days": "TR",
+    "time": "11:00-12:20",
+    "instructor": [
+      {
+        "name": "Mira Yun",
+        "id": "004"
+      }
+    ],
+    "date": "01/19-04/27",
+    "location": "Online",
+    "attribute": "OLC - All Online Learning"
+  },
+
+  {
+    "CRN": "20999",
+    "Subj": "COMP",
+    "crse": "2200",
+    "sec": "01",
+    "cmp": "ONLINE",
+    "cred": 4.000,
+    "title": "Modern Computing",
+    "days": "TR",
+    "time": "9:30-10:50",
+    "instructor": [
+      {
+        "name": "Chen-Hsiang Yu",
+        "id": "003"
+      }
+    ],
+    "date": "01/19-04/27",
+    "location": "Online",
+    "attribute": "OLC - All Online Learning"
+  },
+
+  {
+    "CRN": "20881",
+    "Subj": "PHIL",
+    "crse": "4401",
+    "sec": "06",
+    "cmp": "WIT",
+    "cred": 4.000,
+    "title": "Ethics",
+    "days": "MW",
+    "time": "8:00-9:50",
+    "instructor": [
+      {
+        "name": "David Savalani",
+        "id": "005"
+      }
+    ],
+    "date": "01/19-04/27",
+    "location": "BEATT 418",
+    "attribute": "LEC - In-Person or Combo"
+  },
+
+  {
+    "CRN": "21443",
+    "Subj": "HIST",
+    "crse": "4175",
+    "sec": "04",
+    "cmp": "ONLINE",
+    "cred": 4.000,
+    "title": "Modern American History",
+    "days": "WF",
+    "time": "10:00-11:50",
+    "instructor": [
+      {
+        "name": "Allison K. Lange",
+        "id": "006"
+      }
+    ],
+    "date": "01/19-04/27",
+    "location": "Online",
+    "attribute": "OLC - All Online Learning"
+  },
+
+  {
+    "CRN": "21300",
+    "Subj": "COMP",
+    "crse": "4600",
+    "sec": "01",
+    "cmp": "ONLINE",
+    "cred": 4.000,
+    "title": "Quantum Computing for Security",
+    "days": "MW",
+    "time": "12:30-1:50",
+    "instructor": [
+      {
+        "name": "Leonidas Deligiannidas",
+        "id": "007"
+      }
+    ],
+    "date": "01/19-04/27",
+    "location": "Online",
+    "attribute": "OLC - All Online Learning"
+  },
+
+  {
+    "CRN": "21363",
+    "Subj": "HIST",
+    "crse": "4300",
+    "sec": "01",
+    "cmp": "ONLINE",
+    "cred": 4.000,
+    "title": "American Urban Histiry",
+    "days": "TR",
+    "time": "10:00-11:50",
+    "instructor": [
+      {
+        "name": "Allison K. Lange",
+        "id": "006"
+      }
+    ],
+    "date": "01/19-04/27",
+    "location": "Online",
+    "attribute": "Lec - In-Person or Combo"
+  },
+
+  {
+    "CRN": "20801",
+    "Subj": "COMP",
+    "crse": "3100",
+    "sec": "01",
+    "cmp": "WIT",
+    "cred": 4.000,
+    "title": "System Administration",
+    "days": "MW",
+    "time": "12:30-1:50",
+    "instructor": [
+      {
+        "name": "Raymond Hansen",
+        "id": "008"
+      }
+    ],
+    "date": "01/19-04/27",
+    "location": "ANXCN 014",
+    "attribute": "RLC - Rotating In-Person Lecture"
+  },
+
+  {
+    "CRN": "20896",
+    "Subj": "HUMN",
+    "crse": "4225",
+    "sec": "01",
+    "cmp": "ONLINE",
+    "cred": 4.000,
+    "title": "Television Studies",
+    "days": "TR",
+    "time": "8:00-9:50",
+    "instructor": [
+      {
+        "name": "Rodney Carveth",
+        "id": "009"
+      }
+    ],
+    "date": "01/19-04/27",
+    "location": "Online",
+    "attribute": "OLC - All Online Learning"
+  },
+
+  {
+    "CRN": "21400",
+    "Subj": "PSYC",
+    "crse": "4160",
+    "sec": "02",
+    "cmp": "ONLINE",
+    "cred": 4.000,
+    "title": "Sports Psycology",
+    "days": "WF",
+    "time": "10:00-11:50",
+    "instructor": [
+      {
+        "name": "Phyllis Ann Wentworth",
+        "id": "010"
+      }
+    ],
+    "date": "01/19-04/27",
+    "location": "Online",
+    "attribute": "OLC - All Online Learning"
+  },
+
+  {
+    "CRN": "20736",
+    "Subj": "COMP",
+    "crse": "3660",
+    "sec": "01",
+    "cmp": "ONLINE",
+    "cred": 4.000,
+    "title": "Mobile App Debelopment",
+    "days": "TR",
+    "time": "8:00-9:20",
+    "instructor": [
+      {
+        "name": "Chen-Hsiang Yu",
+        "id": "003"
+      }
+    ],
+    "date": "01/19-04/27",
+    "location": "Online",
+    "attribute": "OLC - All Online Learning"
+  },
+
+  {
+    "CRN": "20565",
+    "Subj": "COMP",
+    "crse": "2150",
+    "sec": "01A",
+    "cmp": "WIT",
+    "cred": 4.000,
+    "title": "Network Administration",
+    "days": "MW",
+    "time": "8:00-9:20",
+    "instructor": [
+      {
+        "name": "Leonidas Deligiannidas",
+        "id": "007"
+      }
+    ],
+    "date": "01/19-04/27",
+    "location": "WENTW 004",
+    "attribute": "RLC - Rotating In-Person Lec"
+  },
+
+  {
+    "CRN": "20802",
+    "Subj": "COMP",
+    "crse": "3499",
+    "sec": "03",
+    "cmp": "ONLINE",
+    "cred": 4.000,
+    "title": "Operating Systems For Engineers",
+    "days": "TR",
+    "time": "8:00-9:20",
+    "instructor": [
+      {
+        "name": "Marisha Rawlins",
+        "id": "011"
+      }
+    ],
+    "date": "01/19-04/27",
+    "location": "Online",
+    "attribute": "OLC - All Online Learning"
+  }
+]
